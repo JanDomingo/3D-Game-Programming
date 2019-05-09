@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4980E153-51CB-979C-8D11-EE4EED715172}|">
+<<<<<<< Updated upstream
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/terrain/about.txt">
+    <Files>
+      <File FileName="Assets/Scripts/FruitGameController.cs" Line="48" Column="1" />
+      <File FileName="Assets/GameControlelr.cs" Line="47" Column="1" />
+      <File FileName="Assets/terrain/about.txt" Line="1" Column="1" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameControlelr.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FruitGameController.cs" Line="37" Column="11" />
+      <File FileName="Assets/Scripts/GameControlelr.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameControlelr.cs" Line="36" Column="11" />
+>>>>>>> Stashed changes
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pregame_Party" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="terrain" expanded="True">
+                <Node name="about.txt" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b67325d6-5487-4906-b009-2b12f3372a11" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

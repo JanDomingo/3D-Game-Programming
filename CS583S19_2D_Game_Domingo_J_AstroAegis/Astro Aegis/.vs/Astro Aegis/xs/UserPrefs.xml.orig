@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{AEC9DB3A-BBB8-0818-B971-F0537DDF8989}|">
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="23" Column="22" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="16" Column="28" />
+      <File FileName="Assets/Scripts/Spaceship.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Guns.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/Beam.cs" Line="36" Column="49" />
+      <File FileName="Assets/Scripts/Enemy/Enemy.cs" Line="38" Column="42" />
+>>>>>>> 0a7c9ad0136cabbf3813882c350cef8c34aa0bef
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Astro Aegis" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+<<<<<<< HEAD
+                <Node name="PlayerMovement.cs" selected="True" />
+=======
+                <Node name="Enemy" expanded="True">
+                  <Node name="Enemy.cs" selected="True" />
+                </Node>
+>>>>>>> 0a7c9ad0136cabbf3813882c350cef8c34aa0bef
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cc1f99d6-fdd1-4e95-b1de-6ab9bc9ff5e8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

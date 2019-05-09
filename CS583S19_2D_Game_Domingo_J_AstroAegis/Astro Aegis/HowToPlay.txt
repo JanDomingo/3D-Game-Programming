@@ -1,0 +1,4 @@
+1. Use the arrow keys to control the spacecraft
+2. Press spacebar to shoot laser beams. Press 'B' to shoot laser bombs
+3. Survive for as long as you can (Get hit by an enemy laser beam 10 times for gameover)
+
